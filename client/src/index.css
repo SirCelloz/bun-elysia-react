@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navigasi{
+  background: url('assets/Wave.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
